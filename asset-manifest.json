@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FocusedYT/static/css/main.7f8bf5c3.css",
+    "main.js": "/FocusedYT/static/js/main.3bd39aec.js",
+    "static/js/787.c0ee773f.chunk.js": "/FocusedYT/static/js/787.c0ee773f.chunk.js",
+    "index.html": "/FocusedYT/index.html",
+    "main.7f8bf5c3.css.map": "/FocusedYT/static/css/main.7f8bf5c3.css.map",
+    "main.3bd39aec.js.map": "/FocusedYT/static/js/main.3bd39aec.js.map",
+    "787.c0ee773f.chunk.js.map": "/FocusedYT/static/js/787.c0ee773f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f8bf5c3.css",
+    "static/js/main.3bd39aec.js"
+  ]
+}
